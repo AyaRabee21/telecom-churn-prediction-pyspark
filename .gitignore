@@ -1,0 +1,39 @@
+# =========================
+# Python env
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Virtual Environments
+# =========================
+venv/
+env/
+.venv/
+
+# =========================
+# VS Code settings
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# PySpark & Hadoop files
+# =========================
+spark-warehouse/
+metastore_db/
+derby.log
+
+# =========================
+# Machine Learning models & data
+# =========================
+model/
+*.csv
+*.parquet
+*.xlsx
+
+# =========================
+# Environment Variables
+# =========================
+.env
