@@ -76,8 +76,6 @@ Enter the customer details (Tenure, Monthly Charges, Total Charges) and click Pr
 ---
 ### Result :
 
-https://github.com/user-attachments/assets/f79dbef7-dee0-400d-b295-85ac92ddcfa2
-
 
 
 
