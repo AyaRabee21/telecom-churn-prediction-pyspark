@@ -9,9 +9,6 @@ This project aims to predict whether a telecom customer will churn (leave the se
 
 **Big Data Technology:** Unlike traditional machine learning models that use Pandas and Scikit-Learn, this project is built from the ground up using **Apache Spark (PySpark)**. This allows the system to scale efficiently and handle massive amounts of Big Data across distributed clusters. The machine learning model (Random Forest) was trained using Spark MLlib, and the predictions are served via a fast and modern API built with **FastAPI**.
 
-يهدف هذا المشروع إلى توقع ما إذا كان عميل شركة الاتصالات سيغادر الخدمة (Churn) أم سيبقى، بناءً على بيانات حسابه واستخدامه. 
-تم بناء هذا المشروع بالاعتماد كلياً على **تقنيات البيانات الضخمة (Big Data Technologies)** باستخدام **Apache Spark (PySpark)** لتشغيل وتدريب نموذج تعلم الآلة (Random Forest). استخدام PySpark يضمن قدرة النظام على التعامل مع أحجام هائلة من البيانات بكفاءة عالية جداً مقارنة بالطرق التقليدية. كما يتم عرض واجهة المستخدم ونتائج التوقع من خلال خادم ويب سريع مبني بـ **FastAPI**.
-
 ---
 
 ## 📊 Dataset (مجموعة البيانات)
