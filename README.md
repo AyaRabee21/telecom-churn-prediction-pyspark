@@ -1,6 +1,3 @@
-تفضلي، هذا محتوى ملف `README.md` جاهز للنسخ مباشرة:
-
-```markdown
 # 📡 Telco Customer Churn Prediction (Big Data Approach)
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
