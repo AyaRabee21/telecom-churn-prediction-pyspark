@@ -32,7 +32,7 @@ Follow these steps to run the project on your local machine:
 ### 1. Clone the repository (نسخ المشروع)
 ```bash
 git clone [https://github.com/AyaRabee21/telecom-churn-prediction-pyspark.git](https://github.com/AyaRabee21/telecom-churn-prediction-pyspark.git)
-cd YourRepoName
+cd telecom-churn-prediction-pyspark
 
 ```
 
@@ -74,3 +74,15 @@ Open your web browser and go to:
 Enter the customer details (Tenure, Monthly Charges, Total Charges) and click Predict.
 
 ---
+### Result :
+
+https://github.com/user-attachments/assets/f79dbef7-dee0-400d-b295-85ac92ddcfa2
+
+
+
+
+
+
+https://github.com/user-attachments/assets/58e4d7fe-7ea3-4906-a219-72ea3476334b
+
+
